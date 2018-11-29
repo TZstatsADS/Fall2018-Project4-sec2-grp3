@@ -6,13 +6,14 @@
 
 Term: Fall 2018
 
-+ Team #
++ Team # 3
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Samuel Kolins
+	+ Sheng Wang
+	+ Jiaxi Wu
+	+ Yan Wang
+	+ Wanyi Zheng
++ Paper: C1 + D3
 
 + Project summary: In this project, we created an OCR post-processing procedure to enhance Tesseract OCR output. 
 	
