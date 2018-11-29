@@ -16,6 +16,7 @@ Project xxx
 Team members: Samuel Kolins, Sheng Wang, Jiaxi Wu, Yan Wang and Wanyi Zheng
 
 [Contribution Statement]
+
 Samuel Kolins:
 - Wrote and presented PowerPoint 
 - Helped with debug detection and correction evaluation matrices
