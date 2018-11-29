@@ -148,8 +148,9 @@ The referenced papers are:
 
 5. [topic models](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4377099)
 
-Here, in our code, we just simply remove the detected-errors.
+Here, we use the positional binary digram method in the first paper.
 ```{r}
+path <- "../data/ground_truth"
 tesseract_delete_error_vec <- tesseract_vec[tesseract_if_clean] #1095
 ```
 
