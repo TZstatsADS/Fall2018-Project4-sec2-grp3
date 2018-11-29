@@ -15,7 +15,7 @@ Term: Fall 2018
 	+ Wanyi Zheng (wz2409)
 + Paper: C1 + D3
 
-+ Project summary: In this project, we created an OCR post-processing procedure to enhance Tesseract OCR output. 
++ Project summary: In this project, we created an OCR post-processing procedure to enhance Tesseract OCR output. The fisrt step is detecting garbage out from the OCR output by extracting features, also building and training SVM models to predict the garbage label for all tokens. For the error correction part, among those errors that detectable, the set of binary digrams can be used to attempt correction.  
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
