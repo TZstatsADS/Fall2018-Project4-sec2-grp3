@@ -13,8 +13,22 @@ Sample project README statement.
 
 Project xxx
 
-Team members: Avi Bond, Comma Deed, En Funn, Gem Hon
+Team members: Samuel Kolins, Sheng Wang, Jiaxi Wu, Yan Wang and Wanyi Zheng
 
-Summary: In this project, we developed a new method and improved the classification accuracy for images of cats and dogs to 99.9%
+[Contribution Statement]
+Samuel Kolins:
+- Wrote and presented PowerPoint 
+- Helped with debug detection and correction evaluation matrices
 
-[Contribution Statement] AB, CD, EF and GH designed the study. AB and CD developed baseline classification model for evaluation. EF and GH explored feature engineering for improving the baseline model. AB, EF and GH discussed and designed the model evaluation protocol. CD carried out the computation for model evaluation. All team members contributed to the GitHub repository and prepared the presentation. All team members approve our work presented in our GitHub repository including this contribution statement.
+Sheng Wang:
+- Helped with debug detection parts
+
+Jiaxin Wu:
+- Wrote correction part codes and correction evaluatin matrices
+
+Yan Wang:
+- Wrote detection evaluation matrices and helped with detection SVM
+
+Wanyi Zheng:
+- Wrote dectection data clean, feature extracting and support vector machine 
+
